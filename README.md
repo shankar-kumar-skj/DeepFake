@@ -36,7 +36,7 @@ DeepFake-web/
 │       ├── fake/            # DeepFake videos
 │
 ├── app.ipynb                # ✅ MAIN FILE (training + saving model)
-├── test_model.py            # ✅ Test a video (Real/Fake)
+├── TEST_MODEL.ipynb         # ✅ Test a video (Real/Fake)
 │
 ├── model_real/
 │   └── model.h5        # Saved trained model
@@ -65,7 +65,7 @@ Steps performed:
 
 ---
 
-### 🔹 2. Testing Phase (`test_model.py`)
+### 🔹 2. Testing Phase (`TEST_MODEL.ipynb`)
 
 Used **only for prediction**, not training.
 
