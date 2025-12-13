@@ -154,7 +154,7 @@ Run all cells to train and save the model.
 ### 🔹 Test a Video
 
 ```bash
-python test_model.py --video path_to_video.mp4
+jupyter notebook TEST_MODEL.ipynb --video path_to_video.mp4
 ```
 
 Sample Output:
