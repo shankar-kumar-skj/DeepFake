@@ -1,6 +1,0 @@
-Flask==2.2.5
-tensorflow==2.15.0
-opencv-python-headless
-numpy
-gunicorn
-werkzeug==2.2.2
