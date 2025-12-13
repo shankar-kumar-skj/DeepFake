@@ -31,7 +31,7 @@ The system is simple, modular, and suitable for academic / final-year projects.
 ```bash
 DeepFake-web/
 │
-├── dataset/
+├── data/
 │       ├── real/            # Original videos
 │       ├── fake/            # DeepFake videos
 │
@@ -101,7 +101,7 @@ CelebDF-v2 (Celebrities DeepFake Dataset):
 ### ✅ Real Videos
 
 ```bash
-dataset/CelebDF-v2/real/
+data/real/
 ```
 
 * Original, unmodified celebrity videos
@@ -109,7 +109,7 @@ dataset/CelebDF-v2/real/
 ### ❌ Fake Videos
 
 ```bash
-dataset/CelebDF-v2/fake/
+data/fake/
 ```
 
 * DeepFake-generated face swap videos
