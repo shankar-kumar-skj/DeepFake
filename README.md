@@ -71,7 +71,7 @@ Used **only for prediction**, not training.
 
 Steps performed:
 
-1. Load trained model (`best_model.h5`)
+1. Load trained model (`model.keras`)
 2. Input a single video file
 3. Extract frames and faces
 4. Predict video class
